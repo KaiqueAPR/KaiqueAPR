@@ -1,6 +1,6 @@
 ### Hello! I'm Kaique 👋
 
-- 🔭 Currently I work as full-stack
+- 👨🏽‍🏭 Currently I work as full-stack
 
 <!-- GitHub Stats do kiki -->
 <div align="center">
@@ -12,7 +12,7 @@
 
 <!-- Ferramentas de trabalho do kiki -->
 <div style="display: inline_block;"><br />
-<h2> Work Tools 🛠️ : </h2>
+<h2> Work Tools 👨🏽‍💻 : </h2>
   <img align="center" alt="Kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,6 +27,7 @@
 
 <!-- Redes sociais do kiki -->
 <div> 
+<h2> Social Media 👥 : </h2>
   <a href="https://www.instagram.com/kaique.99k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "kaiquepinho2010@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-araujo-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
