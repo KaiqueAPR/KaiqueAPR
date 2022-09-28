@@ -23,7 +23,6 @@
 </div>
 <!-- Fim Ferramentas de trabalho do kiki -->
 
-## 
 
 <!-- Redes sociais do kiki -->
 <div> 
