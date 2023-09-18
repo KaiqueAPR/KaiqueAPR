@@ -5,13 +5,14 @@
 <!-- GitHub Stats do kiki -->
 <div class="row">
   <a href="https://github.com/KaiqueAPR">
-  <img class="col-sm-6" height="165em" src="https://github-readme-stats.vercel.app/api?username=KaiqueAPR&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaiqueAPR&theme=blue-green)](https://git.io/streak-stats)
+
   <img class="col-sm-6" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueAPR&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 <br />
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaiqueAPR&theme=blue-green)](https://git.io/streak-stats)
+  
 <!-- Fim do GitHub Stats do kiki -->
 
 <!-- Ferramentas de trabalho do kiki -->
