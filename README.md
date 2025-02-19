@@ -6,8 +6,6 @@
 <div class="row">
   <a href="https://github.com/KaiqueAPR">
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaiqueAPR&theme=blue-green)](https://git.io/streak-stats)
-
   <img class="col-sm-6" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueAPR&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
